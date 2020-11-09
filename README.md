@@ -1,6 +1,6 @@
 # Opencore-EFI
 Distintas  EFI Para compartir
-Amigos Comparto EFI de OC para  compartir con ustedes con el metodo Dortania - 
+Amigos Comparto EFI de OC para  compartir con ustedes con el metodo Dortania - Opencore 0.6.3
 INSTRUCCIONES
 CREAR SM BIOS
 ROM
